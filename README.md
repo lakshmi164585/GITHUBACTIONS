@@ -48,3 +48,5 @@ Events: any activity in the repo that can trigger a workflow
 # STEPS: Actions to be taken , commands ,scripts
 steps:
 Chain JObs -- :needs
+=====================
+![preview](githubactions1)
